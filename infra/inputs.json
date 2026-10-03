@@ -17,9 +17,11 @@
       "EthanZ2007",
       "HarishSenthilkumar",
       "JiayiH08",
+      "KevinL135",
       "KeyaanMatrix",
       "NainaEnock",
       "Yutai007",
+      "a-gupta123",
       "a-varigonda",
       "aanya21gupta",
       "amishigupta",
@@ -34,6 +36,7 @@
       "brady-q",
       "cahove",
       "carolyne-chiang",
+      "charansr",
       "cheezypegasus",
       "csongfm",
       "davidx2-gif",
@@ -41,10 +44,13 @@
       "dishon949",
       "dzhou08",
       "eitankrajewski",
+      "ethanliu2026",
+      "faribahnuha",
       "graceguo16",
       "henhen1235",
       "hnaracodes",
       "ipyoon",
+      "jahuang24",
       "janek0420",
       "justinwu80",
       "k3t6hup",
@@ -52,15 +58,20 @@
       "khushij312",
       "klz037",
       "kzz9984",
+      "maxwellliu07",
+      "nicholascui225",
       "noe2971",
       "nosleep32",
+      "pnimmaga-jpg",
       "rarangil",
       "rayank7674",
       "riishp",
       "rocketrules",
       "rohansp007",
+      "ryanwong05",
       "s520y",
       "sagelu1",
+      "sahilmmehta",
       "samad2084",
       "sdavidi-ai",
       "sophiez3",
@@ -68,6 +79,7 @@
       "stingray8",
       "szzxt",
       "tejaschaudhari131",
+      "the-srianeesh",
       "veriivy",
       "victoriasun2007",
       "ziwei-che"
@@ -94,6 +106,7 @@
       "amishig",
       "angely",
       "aravagar",
+      "aryangup",
       "audreyya",
       "audreyz2",
       "avarigon",
@@ -104,39 +117,50 @@
       "cesong",
       "charlie3",
       "chove",
+      "csridhar",
       "darisan",
       "davidx2",
       "dhzhou",
       "ekrajews",
+      "ethanlil",
       "ethanzhe",
+      "fmn",
       "hhxu",
       "hnara",
       "hsenthil",
       "ipae",
       "ivanz",
       "janekim",
+      "jarretth",
       "jiayihu",
       "jzwu",
       "kasubash",
       "kelseyli",
+      "kevinlu3",
       "keyaans",
       "khushij",
       "ktan2",
       "kzzhao",
       "liweix",
+      "myliu2",
       "nainae",
       "nchandy",
+      "ncui2",
       "ndishon",
+      "pnimmaga",
       "rarangil",
+      "renfeirw",
       "rkha",
       "rpachava",
       "rparthip",
       "sabellah",
       "sagelu",
+      "sahilm",
       "samad",
       "sdavidi",
       "seany2",
       "sophiez3",
+      "srianeek",
       "susanzuo",
       "szhang4",
       "tchaudha",
@@ -156,15 +180,19 @@
           "a-varigonda",
           "ay93546",
           "brady-q",
+          "pnimmaga-jpg",
           "rocketrules",
-          "rohansp007"
+          "rohansp007",
+          "the-srianeesh"
         ],
         "andrew_ids": [
           "aravagar",
           "audreyya",
           "avarigon",
           "bquo",
-          "rparthip"
+          "pnimmaga",
+          "rparthip",
+          "srianeek"
         ]
       },
       "admins": {
@@ -234,6 +262,34 @@
       "website": "cmubulletin.com",
       "server": "your-team-server.com"
     },
+    "cmu-research": {
+      "name": "CMU Research",
+      "description": "CMU Research Team",
+      "members": {
+        "github_usernames": [
+          "jahuang24",
+          "nicholascui225"
+        ],
+        "andrew_ids": [
+          "jarretth",
+          "ncui2"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "jahuang24",
+          "nicholascui225"
+        ],
+        "andrew_ids": [
+          "jarretth",
+          "ncui2"
+        ]
+      },
+      "repos": [
+        "ResearchStarter"
+      ],
+      "create_oidc_clients": false
+    },
     "cmu-scottytasks": {
       "name": "CMU-ScottyTasks",
       "description": "A mobile gamified task/habit tracker with a leaderboard system and a personalized, upgradable Scotty dog avatar.\"\n",
@@ -269,12 +325,16 @@
           "cahove",
           "dishon949",
           "hanabenko",
+          "jahuang24",
+          "nicholascui225",
           "ziwei-che"
         ],
         "andrew_ids": [
           "avarigon",
           "chove",
           "hbenko",
+          "jarretth",
+          "ncui2",
           "ndishon",
           "semathew",
           "yh4",
@@ -459,24 +519,6 @@
       "create_oidc_clients": true,
       "website": "wiki.scottylabs.org",
       "server": "api.wiki.scottylabs.org"
-    },
-    "cmuresearch": {
-      "name": "CMU Research",
-      "description": "The CMU Research team.",
-      "members": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "bryung"
-        ]
-      },
-      "admins": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "bryung"
-        ]
-      },
-      "repos": [],
-      "create_oidc_clients": true
     },
     "cmuservice": {
       "name": "CMU Service",
