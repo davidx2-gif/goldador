@@ -13,6 +13,7 @@
     ],
     "non_admins": [
       "AA2026",
+      "Aaron123456789123456789",
       "EnspikondPlusPlus",
       "EthanZ2007",
       "HarishSenthilkumar",
@@ -24,6 +25,7 @@
       "a-gupta123",
       "a-varigonda",
       "aanya21gupta",
+      "aapin1",
       "amishigupta",
       "angely32",
       "appleorange",
@@ -74,6 +76,7 @@
       "sahilmmehta",
       "samad2084",
       "sdavidi-ai",
+      "shainag03",
       "sophiez3",
       "sophiezxh",
       "stingray8",
@@ -100,11 +103,13 @@
     "non_admins": [
       "aahans",
       "aanyag2",
+      "aaronch2",
       "aayana",
       "abthakka",
       "amaganti",
       "amishig",
       "angely",
+      "appinto",
       "aravagar",
       "aryangup",
       "audreyya",
@@ -159,6 +164,7 @@
       "samad",
       "sdavidi",
       "seany2",
+      "shainag",
       "sophiez3",
       "srianeek",
       "susanzuo",
@@ -233,6 +239,44 @@
       "create_oidc_clients": false,
       "website": "",
       "server": ""
+    },
+    "cmu-blockparty": {
+      "name": "BlockParty",
+      "description": "A way to track your meal block usage progress. This would help\n                you track if you are behind or ahead of schedule, and you can eat\n                accordingly. Integration with SIO will allow users to check past\n                orders + receipts.",
+      "members": {
+        "github_usernames": [
+          "csongfm",
+          "eitankrajewski",
+          "henhen1235",
+          "justinwu80",
+          "klz037",
+          "rayank7674",
+          "s520y",
+          "sdavidi-ai"
+        ],
+        "andrew_ids": [
+          "cesong",
+          "ekrajews",
+          "hhxu",
+          "jzwu",
+          "kelseyli",
+          "rkha",
+          "sdavidi",
+          "seany2"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "henhen1235"
+        ],
+        "andrew_ids": [
+          "hhxu"
+        ]
+      },
+      "repos": [
+        "BlockParty"
+      ],
+      "create_oidc_clients": true
     },
     "cmu-bulletin": {
       "name": "CMU Bulletin",
@@ -325,6 +369,7 @@
           "cahove",
           "dishon949",
           "hanabenko",
+          "henhen1235",
           "jahuang24",
           "nicholascui225",
           "ziwei-che"
@@ -333,6 +378,7 @@
           "avarigon",
           "chove",
           "hbenko",
+          "hhxu",
           "jarretth",
           "ncui2",
           "ndishon",
