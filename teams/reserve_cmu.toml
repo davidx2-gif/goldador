@@ -22,7 +22,7 @@ create-oidc-clients = false
 # List of repositories owned by the team.
 # Note that the owners of the repositories must be ScottyLabs-Labrador.
 [[repos]]
-name = "ReserveCMU" # As it appears at the end of the GitHub repository URL
+name = "ReserveCMU"       # As it appears at the end of the GitHub repository URL
 description = "Main Repo"
 
 # List of membership records by timeframe.
@@ -39,7 +39,7 @@ leads = ["davidx2-gif", "bmood25"]
 # List of members for this timeframe.
 [[membership.members]]
 github-username = "sophiezxh"
-title = "Member 1's title" # The title is optional.
+title = "Member 1's title"    # The title is optional.
 
 [[membership.members]]
 github-username = "sophiez3"
@@ -58,5 +58,8 @@ github-username = "amishigupta"
 title = "Member 2's title"
 
 [[membership.members]]
-github-username = "zoeyj1"
+github-username = "davidx2-gif"
+title = "Member 2's title"
+[[membership.members]]
+github-username = "bmood2"
 title = "Member 2's title"
