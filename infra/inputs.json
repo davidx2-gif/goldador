@@ -12,16 +12,65 @@
       "laasyaaki"
     ],
     "non_admins": [
+      "AA2026",
+      "EnspikondPlusPlus",
+      "EthanZ2007",
+      "HarishSenthilkumar",
+      "JiayiH08",
+      "KeyaanMatrix",
+      "NainaEnock",
+      "Yutai007",
       "a-varigonda",
+      "aanya21gupta",
+      "amishigupta",
+      "angely32",
+      "appleorange",
+      "arhavthakkar",
+      "arjunmaganti",
+      "arren51",
+      "ashah48",
+      "ay93546",
       "bmood25",
+      "brady-q",
+      "cahove",
+      "carolyne-chiang",
       "cheezypegasus",
       "csongfm",
+      "davidx2-gif",
+      "didikana",
+      "dishon949",
+      "dzhou08",
+      "eitankrajewski",
       "graceguo16",
+      "henhen1235",
+      "hnaracodes",
+      "ipyoon",
+      "janek0420",
+      "justinwu80",
+      "k3t6hup",
+      "kevin20074321",
+      "khushij312",
+      "klz037",
+      "kzz9984",
       "noe2971",
+      "nosleep32",
       "rarangil",
       "rayank7674",
+      "riishp",
+      "rocketrules",
+      "rohansp007",
+      "s520y",
+      "sagelu1",
+      "samad2084",
+      "sdavidi-ai",
+      "sophiez3",
+      "sophiezxh",
+      "stingray8",
+      "szzxt",
       "tejaschaudhari131",
-      "veriivy"
+      "veriivy",
+      "victoriasun2007",
+      "ziwei-che"
     ]
   },
   "andrew_ids": {
@@ -37,16 +86,65 @@
       "yh4"
     ],
     "non_admins": [
+      "aahans",
+      "aanyag2",
+      "aayana",
+      "abthakka",
+      "amaganti",
+      "amishig",
+      "angely",
+      "aravagar",
+      "audreyya",
       "audreyz2",
       "avarigon",
+      "avijendr",
       "bmood",
+      "bquo",
+      "carolyne",
       "cesong",
       "charlie3",
+      "chove",
+      "darisan",
+      "davidx2",
+      "dhzhou",
+      "ekrajews",
+      "ethanzhe",
+      "hhxu",
+      "hnara",
+      "hsenthil",
+      "ipae",
+      "ivanz",
+      "janekim",
+      "jiayihu",
+      "jzwu",
+      "kasubash",
+      "kelseyli",
+      "keyaans",
+      "khushij",
+      "ktan2",
+      "kzzhao",
+      "liweix",
+      "nainae",
       "nchandy",
+      "ndishon",
       "rarangil",
       "rkha",
+      "rpachava",
+      "rparthip",
+      "sabellah",
+      "sagelu",
+      "samad",
+      "sdavidi",
+      "seany2",
+      "sophiez3",
+      "susanzuo",
+      "szhang4",
       "tchaudha",
-      "yumengg2"
+      "tingrayc",
+      "vmsun",
+      "yumengg2",
+      "yutailon",
+      "ziweiche"
     ]
   },
   "teams": {
@@ -55,10 +153,18 @@
       "description": "Web extension to push an automatic, customizable, summary of emails and Canvas, Ed, Piazza and other softwares' posts, creating a daily/weekly to-do list.\n",
       "members": {
         "github_usernames": [
-          "a-varigonda"
+          "a-varigonda",
+          "ay93546",
+          "brady-q",
+          "rocketrules",
+          "rohansp007"
         ],
         "andrew_ids": [
-          "avarigon"
+          "aravagar",
+          "audreyya",
+          "avarigon",
+          "bquo",
+          "rparthip"
         ]
       },
       "admins": {
@@ -74,15 +180,105 @@
       ],
       "create_oidc_clients": false
     },
+    "brieflyai": {
+      "name": "Briefly AI",
+      "description": "Briefly allows users to curate multiple newsletters\nbased on their interests like in sports or finance.\nAn AI will automatically generate the newsletter described and email\nit to users at user-specified times.\n",
+      "members": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "repos": [
+        "ai-newsletter"
+      ],
+      "create_oidc_clients": false,
+      "website": "",
+      "server": ""
+    },
+    "cmu-bulletin": {
+      "name": "CMU Bulletin",
+      "description": "Your one-stop shop for everything happening at Carnegie Mellon. Never miss an event on campus again.\n",
+      "members": {
+        "github_usernames": [
+          "angely32",
+          "ziwei-che"
+        ],
+        "andrew_ids": [
+          "angely",
+          "ziweiche"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "ziwei-che"
+        ],
+        "andrew_ids": [
+          "ziweiche"
+        ]
+      },
+      "repos": [
+        "CMU-Bulletin"
+      ],
+      "create_oidc_clients": true,
+      "website": "cmubulletin.com",
+      "server": "your-team-server.com"
+    },
+    "cmu-scottytasks": {
+      "name": "CMU-ScottyTasks",
+      "description": "A mobile gamified task/habit tracker with a leaderboard system and a personalized, upgradable Scotty dog avatar.\"\n",
+      "members": {
+        "github_usernames": [
+          "dishon949"
+        ],
+        "andrew_ids": [
+          "ndishon"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "dishon949"
+        ],
+        "andrew_ids": [
+          "ndishon"
+        ]
+      },
+      "repos": [
+        "CMU-ScottyTasks"
+      ],
+      "create_oidc_clients": false
+    },
     "goldador": {
       "name": "Goldador",
       "description": "Responsible for governance in Labrador.",
       "members": {
         "github_usernames": [
-          "Yuxiang-Huang"
+          "SamEthanMathew",
+          "Yuxiang-Huang",
+          "a-varigonda",
+          "cahove",
+          "dishon949",
+          "hanabenko",
+          "ziwei-che"
         ],
         "andrew_ids": [
-          "yh4"
+          "avarigon",
+          "chove",
+          "hbenko",
+          "ndishon",
+          "semathew",
+          "yh4",
+          "ziweiche"
         ]
       },
       "admins": {
